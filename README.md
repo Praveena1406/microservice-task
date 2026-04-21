@@ -28,6 +28,15 @@ It demonstrates how multiple independent services communicate using Eureka Serve
 - Feign client -> Inter-service Communication
 - API Gateway -> Routing
 
+# Implementation Flow
+Below is the step-by-step flow followed to build this microservices application
+
+<img width="784" height="585" alt="Screenshot 2026-04-21 133214" src="https://github.com/user-attachments/assets/8e492fb9-6587-4c9a-a887-24ca3d83c093" />
+<img width="783" height="581" alt="image" src="https://github.com/user-attachments/assets/d4d46ca0-8a31-420f-b3d9-165425f041d4" />
+
+
+
+
 # Project Structure 
 Each service follows a similar structure 
 ```
