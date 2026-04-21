@@ -79,3 +79,7 @@ Start Services in the following order
 |         | GET    | /users/getallproducts                  | Get all Products  |
 | Order   | POST   | /orders/placeorder                     | Create Order      |
 |         | GET    | /orders/getorder                       | Get all orders    |
+
+# Blog 
+For a detailed step-by-step explanation, check out my Medium article 
+👉 [Microservices using Spring Boot](https://medium.com/@praveenabaskar123/microservices-using-springboot-08e07ff31d40)
